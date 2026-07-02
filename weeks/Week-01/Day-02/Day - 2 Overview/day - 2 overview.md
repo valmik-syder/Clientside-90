@@ -1,0 +1,2 @@
+**Day 2 — CSS Grid + Animations**
+Added the services section using CSS Grid (`grid-template-areas`). Hover animations built with keyframes and transitions. Set up CSS custom properties to drive the entire color system, plus a dark mode toggle running purely off those variables.
