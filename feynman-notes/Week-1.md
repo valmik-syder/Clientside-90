@@ -1,13 +1,7 @@
 ## Week 1 Feynman Notes
 
 ### Day 1
-
-1. I built:
+1. I built: - "Full ClientSide.in page layout "
 2. It works by:
 3. The part I do NOT fully understand yet is:
 
-### Day 2
-
-1. I built:
-2. It works by:
-3. The part I do NOT fully understand yet is:
